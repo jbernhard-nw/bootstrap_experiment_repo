@@ -28,4 +28,6 @@ odds_result_1 = [0.5, 0.2, 0.1, 0.1, 0.05, 0.05]
 odds_result_2 = [0.3, 0.1, 0.1, 0.1, 0.2, 0.2]
 ```
 
-Here you can simulate data associated with different prices by changing `product_prices` or with the odds of those prices occurring in the dataframe by updating either `odds_result_1` or `odds_result_2`.  
+Here you can simulate data associated with different prices by changing `product_prices` or with the odds of those prices occurring in the dataframe by updating either `odds_result_1` or `odds_result_2`.
+
+You can find the [Medium post associated with this repository here](https://medium.com/@josh_2774/experimental-design-bootstrapping-5b56fc7a10f1). 
